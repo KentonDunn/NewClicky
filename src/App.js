@@ -11,6 +11,7 @@ class App extends Component {
   state = {
     fighters,
     //score = 0
+    //trying to make it work
 
   }
 
